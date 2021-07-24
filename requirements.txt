@@ -1,0 +1,5 @@
+paddlepaddle >= 2.0.2
+paddlehub >= 2.1.0
+paddlenlp >= 2.0.0
+wechaty ~= 0.7dev16
+lxml >= 4.6.3
