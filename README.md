@@ -80,3 +80,8 @@
 
 通过TaskMgrPlugin插件，用户可进行远程服务器访问，包括手机查询GPU机器占用，负载，以及远程调用和文件读取。
 
+![bot-test-1](https://user-images.githubusercontent.com/8510840/126877912-8998ae56-e837-40a8-9edd-bf45f62ea27b.jpeg)
+![bot-test-2](https://user-images.githubusercontent.com/8510840/126877916-8c916e39-821b-48c1-b84f-0baaf36c5e2c.jpeg)
+![bot-test-3](https://user-images.githubusercontent.com/8510840/126877920-3f7d0864-e375-4ad3-a10c-aaa452b654ed.jpeg)
+![bot-test-4](https://user-images.githubusercontent.com/8510840/126877923-6b351e32-1d83-4d96-be5c-19d63c76e487.jpeg)
+
